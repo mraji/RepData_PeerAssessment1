@@ -166,7 +166,7 @@ median(stepsPerDayNAFree$steps)
 ## [1] 10766.19
 ```
 
-NAs lower the median, since they must be ignored by the mean/median functions
+NAs lower the median, since they act as 0s on the mean/median functions
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
